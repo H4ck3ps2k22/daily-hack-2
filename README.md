@@ -19,11 +19,12 @@ Alguna informació que hem pogut recolectar desde l'associació és:
 
 # Instruccions per instal·lar la VM desde el sofà de casa teva 🐧
 
-  1) Descarrega la màquina virtual (arxiu .ova) de l'apartat releases del repositori.
-  2) Importa l'arxiu .vdi a virtualbox
-  3) A partir d'aquí, entra com a usuari 'user' i contasenya '123456'
-  4) Ara, has de començar a fer reverse-engineering del codi, intentant explotar-lo.
-  5) Finalment, quan siguis root, busca a '/' l'arxiu que et dirà les instruccions per tal de donar per finalitzat el repte.
+  1) Descarrega la màquina virtual (arxiu .zip) de l'apartat releases del repositori.
+  2) Descomprimeix el zip i fes doble click a l'arxiu .vdi
+  3) El pas anterior t'hauria d'haver importat la màquina virtual al virtualbox.
+  4) A partir d'aquí, entra com a usuari 'user' i contasenya '123456'
+  5) Ara, has de començar a fer reverse-engineering del codi, intentant explotar-lo.
+  6) Finalment, quan siguis root, busca a '/' l'arxiu que et dirà les instruccions per tal de donar per finalitzat el repte.
 
 # Links adicionals 🥸
 [ShellCode](https://en.m.wikipedia.org/wiki/Shellcode)
