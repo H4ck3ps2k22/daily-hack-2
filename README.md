@@ -26,17 +26,19 @@ Alguna informació que hem pogut recolectar desde l'associació és:
   5) Finalment, quan siguis root, busca a '/' l'arxiu que et dirà les instruccions per tal de donar per finalitzat el repte.
 
 # Links adicionals 🥸
-![ShellCode](https://en.m.wikipedia.org/wiki/Shellcode)
+[ShellCode](https://en.m.wikipedia.org/wiki/Shellcode)
 
-![Aleph One](https://en.m.wikipedia.org/wiki/Elias_Levy)
+[Aleph One](https://en.m.wikipedia.org/wiki/Elias_Levy)
 
-![Buffer Overflow](https://en.m.wikipedia.org/wiki/Buffer_overflow)
+[Buffer Overflow](https://en.m.wikipedia.org/wiki/Buffer_overflow)
 
-![How to create your own shell code](https://www.youtube.com/watch?v=VrJfWWbO0HI?t=1m24s)
+[How to create your own shell code](https://www.youtube.com/watch?v=VrJfWWbO0HI?t=1m24s)
 
-![Asciinema](https://asciinema.org)
+[Asciinema](https://asciinema.org)
 
-![Manual of strings](https://man7.org/linux/man-pages/man1/strings.1.html)
+[Manual of strings](https://man7.org/linux/man-pages/man1/strings.1.html)
 
-![How to solve all your problems of your life](https://youtu.be/oHNKTlz1lps)
+[How to solve all your problems of your life](https://youtu.be/oHNKTlz1lps)
 
+# A la uni no m'ensenyen a fer shellcodes 😭
+Si teniu qualsevol problema o porteu diversos dies estancats en el mateix error, podeu obrir una issue plorant i analitzarem la vostra petició.
