@@ -20,7 +20,7 @@ Alguna informació que hem pogut recolectar desde l'associació és:
 # Instruccions per instal·lar la VM desde el sofà de casa teva 🐧
 
   1) Descarrega la màquina virtual (arxiu .ova) de l'apartat releases del repositori.
-  2) Importa l'arxiu .ova a virtualbox
+  2) Importa l'arxiu .vdi a virtualbox
   3) A partir d'aquí, entra com a usuari 'user' i contasenya '123456'
   4) Ara, has de començar a fer reverse-engineering del codi, intentant explotar-lo.
   5) Finalment, quan siguis root, busca a '/' l'arxiu que et dirà les instruccions per tal de donar per finalitzat el repte.
